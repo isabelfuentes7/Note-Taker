@@ -1,5 +1,4 @@
 # Note-Taker
-# README Template
 ## [Note Taker](https://github.com/isabelfuentes7/Note-Taker) 
 
 ---- 
